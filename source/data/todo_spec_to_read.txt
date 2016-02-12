@@ -1,0 +1,3 @@
+This is a line containing string.
+Here is another line containing a string.
+We have, further, a line containing a string.
